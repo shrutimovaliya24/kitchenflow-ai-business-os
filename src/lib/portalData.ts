@@ -14,7 +14,7 @@
 
 export const PORTAL_DATA_API_URL =
   process.env.NEXT_PUBLIC_PORTAL_DATA_API_URL ??
-  "https://giriraj-support.app.n8n.cloud/webhook/kitchenflow-portal-data";
+  "https://shrutirupa.app.n8n.cloud/webhook/kitchenflow-portal-data";
 
 /* ------------------------------------------------------------------ */
 /* Error                                                               */
