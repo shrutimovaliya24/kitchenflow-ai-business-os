@@ -74,7 +74,7 @@ const links = {
     label: "Open Live Partner Application Form",
     url:
       process.env.NEXT_PUBLIC_PARTNER_APPLICATION_FORM_URL ??
-      "https://shrutirupa.app.n8n.cloud/form/d659673b-e8c1-45ea-b692-ef46bf45fa85",
+      "https://shruti-kitchenflow.app.n8n.cloud/form/d659673b-e8c1-45ea-b692-ef46bf45fa85",
   },
   financeSheet: {
     label: "Open Live Google Sheets Finance Dashboard",
